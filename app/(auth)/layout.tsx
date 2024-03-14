@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Borcelle - Admin Auth",
-  description: "Admin dashboard tom manage Borcelle's data",
+  description: "Admin dashboard to manage Borcelle's data",
 };
 
 export default function RootLayout({
